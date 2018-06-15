@@ -60,7 +60,7 @@ pageEncoding="UTF-8"%>
 <div class="container">
 	<div class="row header">
 		<div class="logo navbar-left">
-			<h1><a href="index.jsp">City Gallery </a></h1>
+			<h1><a href="index.jsp">예담 LMS</a></h1>
 		</div>
 		<div class="h_search navbar-right">
 			<form>
